@@ -5,9 +5,9 @@
 // @description  Youtube - Auto Enter Theater Mode and Windowed Fullscreen. YT自动进入影院模式并窗口化全屏.
 // @author       GT
 // @match        https://www.youtube.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
 // @license      MIT
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @downloadURL  https://raw.githubusercontent.com/GT-not-GD/youtube-windowed-fullscreen-script/master/Youtube-Auto-Theater-Mode-Windowed-Fullscreen.user.js // 
 // @updateURL    https://raw.githubusercontent.com/GT-not-GD/youtube-windowed-fullscreen-script/master/Youtube-Auto-Theater-Mode-Windowed-Fullscreen.user.js // 
 // ==/UserScript==
