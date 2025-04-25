@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Youtube - Auto Theater Mode Windowed Fullscreen
 // @namespace    http://tampermonkey.net/
-// @version      1.0 
+// @version      1.1
 // @description  Youtube - Auto Enter Theater Mode and Windowed Fullscreen. YT自动进入影院模式并窗口化全屏.
 // @author       GT
 // @match        https://www.youtube.com/*
