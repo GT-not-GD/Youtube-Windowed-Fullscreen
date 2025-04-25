@@ -7,10 +7,8 @@
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
-// @license      MIT
-https://raw.githubusercontent.com/the1812/Bilibili-Evolved/master/dist/bilibili-evolved.user.js
-// @downloadURL  https://raw.githubusercontent.com/GT-not-GD/youtube-windowed-fullscreen-script/main/Youtube%20-%20Auto%20Theater%20Mode%20Windowed%20Fullscreen%20-1.0.user.js // 
-// @updateURL    https://raw.githubusercontent.com/GT-not-GD/youtube-windowed-fullscreen-script/main/Youtube%20-%20Auto%20Theater%20Mode%20Windowed%20Fullscreen%20-1.0.user.js // 
+// @license      MIT https://raw.githubusercontent.com/GT-not-GD/youtube-windowed-fullscreen-script/main/Youtube-Auto-Theater-Mode-Windowed-Fullscreen-1.0.user.js // 
+// @updateURL    https://raw.githubusercontent.com/GT-not-GD/youtube-windowed-fullscreen-script/main/Youtube-Auto-Theater-Mode-Windowed-Fullscreen-1.0.user.js // 
 // ==/UserScript==
 
 // ... 脚本代码 ...
