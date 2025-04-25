@@ -19,7 +19,7 @@
 
 安装用户脚本管理器后，请点击以下链接来安装此脚本：
 
-➡️ **[点击此处安装脚本](https://raw.githubusercontent.com/GT-not-GD/youtube-windowed-fullscreen-script/main/Youtube-Auto-Theater-Mode-Windowed-Fullscreen-1.0.user.js)**
+➡️ **[点击此处安装脚本](https://raw.githubusercontent.com/GT-not-GD/youtube-windowed-fullscreen-script/master/Youtube-Auto-Theater-Mode-Windowed-Fullscreen.user.js)**
 
 点击链接后，您的用户脚本管理器会打开一个安装确认页面。请检查脚本信息，然后点击“安装”或“确认”按钮。
 
