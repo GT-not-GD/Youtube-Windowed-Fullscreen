@@ -8,8 +8,8 @@
 // @grant        none
 // @license      MIT
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
-// @downloadURL  https://raw.githubusercontent.com/GT-not-GD/youtube-windowed-fullscreen-script/master/Youtube-Auto-Theater-Mode-Windowed-Fullscreen.user.js // 
-// @updateURL    https://raw.githubusercontent.com/GT-not-GD/youtube-windowed-fullscreen-script/master/Youtube-Auto-Theater-Mode-Windowed-Fullscreen.user.js // 
+// @downloadURL  https://raw.githubusercontent.com/GT-not-GD/youtube-windowed-fullscreen/master/Youtube-Auto-Theater-Mode-Windowed-Fullscreen.user.js // 
+// @updateURL    https://raw.githubusercontent.com/GT-not-GD/youtube-windowed-fullscreen/master/Youtube-Auto-Theater-Mode-Windowed-Fullscreen.user.js // 
 // ==/UserScript==
 
 // ... 脚本代码 ...
