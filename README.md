@@ -19,7 +19,7 @@
 
 安装用户脚本管理器后，请点击以下链接来安装此脚本：
 
-➡️ **[点击此处安装脚本](https://raw.githubusercontent.com/[您的GitHub用户名]/youtube-windowed-fullscreen-script/main/Youtube%20-%20Auto%20Theater%20Mode%20Windowed%20Fullscreen%20-1.0.user.js)**
+➡️ **[点击此处安装脚本](https://raw.githubusercontent.com/GT-not-GD/youtube-windowed-fullscreen-script/main/Youtube-Auto-Theater-Mode-Windowed-Fullscreen-1.0.user.js**
 
 *(请将上面链接中的 `[您的GitHub用户名]` 替换为您的实际 GitHub 用户名)*
 
